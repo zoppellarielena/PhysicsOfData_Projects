@@ -14,6 +14,8 @@ This is a collection of projects and exercises completed during my pursuit of a 
 
 - **EXERCISES for ADVANCED STATISTICS FOR PHYSICS ANALYSIS course (prof. Garfagnini):** Here, you will find a range of exercises in R covering various basic and advanced statistical topics.
 
-- **PROJECT for LABORATORY OF COMPUTATIONAL PHYSICS MOD B course (supervisor: prof. Carlo Albert):** This project involved the implementation of an Encoder-Decoder Architecture for catchment features in river runoff time-series. Keras in TensorFlow was utilized for the implementation.
+- **PROJECT for LABORATORY OF COMPUTATIONAL PHYSICS MOD B course (prof. Baiesi, supervisor: prof. Carlo Albert):** This project involved the implementation of an Encoder-Decoder Architecture for catchment features in river runoff time-series. Keras in TensorFlow was utilized for the implementation.
+
+- **PROJECT for LABORATORY OF COMPUTATIONAL PHYSICS MOD A course (prof. Zanetti and prof. Mapelli):** The aim of this project is to use graphical and machine learning tools to figure out what features have the highest impact on the fate of a binary black hole in Nuclear Star Clusters (NSC), Globular Clusters (GC) and Young Star Clusters (YSC).
 
 This collection shows how my work has grown and improved over time, demonstrating my increasing knowledge and skills in the field of computational physics, machine learning and data analysis throughout my academic journey.
