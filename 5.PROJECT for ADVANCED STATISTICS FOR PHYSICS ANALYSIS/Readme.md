@@ -9,7 +9,7 @@ The results obtained in this case demonstrate a significant improvement, with 92
 The datasets used in this project can be found at the following links:
 
 - Fake News Classification (5 classes): [Link](https://www.kaggle.com/datasets/anmolkumar/fake-news-content-detection?select=test.csv)
-- Binary Fake News Classification: [Link](https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset)https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset
+- Binary Fake News Classification: [Link](https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset)
 
 This project was implemented in July/August 2022 in the R language as part of the Advanced Statistics for Physics Analysis course offered by the University of Padova (academic year 2021-2022).
 
