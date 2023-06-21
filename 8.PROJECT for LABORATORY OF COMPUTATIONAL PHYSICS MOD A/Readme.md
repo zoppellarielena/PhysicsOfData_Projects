@@ -3,7 +3,7 @@ The project, titled "Hierarchical Mergers of Binary Black Holes" aims to investi
 
 To gain a deeper understanding of the hierarchical pairing process and the simulations from which the data were obtained, consult Mapelli et al., *Hierarchical black hole mergers in young, globular and nuclear star clusters*, Monthly Notices of the Royal Astronomical Society, Volume 505 (2021) https://arxiv.org/abs/2103.05016. 
 
-This project was developed in March 2022 by Group 14 for the Laboratory of Computational Physics MOD A course (academic year: 2021-2022). 
+This project was developed in March 2022 by Group 14 for *Laboratory of Computational Physics MOD A* course (academic year: 2021-2022). 
 The group members are:
 - Cano Amaro German: https://github.com/german-cano
 - Monti Sebastiano: https://github.com/MontiSebastiano
