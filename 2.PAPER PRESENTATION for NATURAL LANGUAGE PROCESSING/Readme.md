@@ -3,7 +3,7 @@ In this presentation, we discuss the 2022 paper by Chen et al. titled "Character
 The paper, available at https://arxiv.org/abs/2210.08465, addresses the challenge of generating images for a story using a text-to-image framework.
 
 The key focus of this paper is to preserve the characters' representation accurately. 
-To achieve this, the authors propose an approach that combines a Quantised Variational Autoencoder (VAE) augmented with a language model (GPT-2). 
+To achieve this, the authors propose an approach that combines a Vector-Quantised Variational Autoencoder (VQ-VAE) augmented with a language model (GPT-2). 
 Additionally, they introduce a character token planning model to predict visual tokens specifically for characters and a visual token completion model to generate the remaining visual token sequence.
 
 By incorporating character-centric planning and token alignment, the paper presents an innovative solution to enhance the generation of images in storytelling scenarios. 
