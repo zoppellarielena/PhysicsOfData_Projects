@@ -4,6 +4,7 @@ for action prediction. The two architectures implemented are as follows:
 
 1. BiLSTM: This architecture employs a bidirectional Long Short-Term Memory (BiLSTM) network to capture contextual information from both the left and right sentences. It achieved an Unlabeled Attachment Score (UAS) of 82%.
 2. BERT: The second architecture utilizes the Bidirectional Encoder Representations from Transformers (BERT) pretrained model, which is fine-tuned to the Multilayer Perceptron (MLP). Considering the average of the output layers a representative contextual information, the model achieved a UAS of 85%.
+
 Both models were trained and tested on the English EWT dataset from the Universal Dependency project.
 They were also compared with the State-of-the-Art UAS scores, which, at the time of writing, is equal to 93%.
 
