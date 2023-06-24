@@ -8,7 +8,7 @@ for action prediction. The two architectures implemented are as follows:
 Both models were trained and tested on the English EWT dataset from the Universal Dependency project.
 They were also compared with the State-of-the-Art UAS scores, which, at the time of writing, is equal to 93%.
 
-In the initial phase of the project, the dataset was explored by visualizing important information such as vocabulary size, word frequency, ù
+In the initial phase of the project, the dataset was explored by visualizing important information such as vocabulary size, word frequency in
 relation with Zipf/Mandelbrot law, lemmas vocabulary and frequencies, POS tag distribution and sentence length distribution.
 
 For the BERT model, a small statistical analysis of the predicted moves from the trained model is provided, highlighting its higher performance scores on the 
