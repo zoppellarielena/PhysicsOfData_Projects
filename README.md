@@ -2,7 +2,7 @@
 
 This is a collection of projects and exercises completed during my pursuit of a Master's degree in Physics of Data at the University of Padova. The list is organized in reverse chronological order, starting from the most recent work and progressing towards older projects:
 
-1. **PROJECT for NATURAL LANGUAGE PROCESSING course (prof. Satta):** This project focused on Neural Dependency Parsing using biLSTM compared to BERT for Feature Representation, utilizing ArcEager as the Parser algorithm. The implementation was done using PyTorch.
+1. **PROJECT for NATURAL LANGUAGE PROCESSING course (prof. Satta):** This project focused on Neural Dependency Parsing using biLSTM compared to BERT for feature extraction, utilizing ArcEager as the Parser algorithm. The implementation was done using PyTorch.
 2. **PAPER PRESENTATION for NATURAL LANGUAGE PROCESSING course (prof. Satta):** In this presentation, the 2022 paper by Chen et al. titled "Character-Centric Story Visualization via Visual Planning and Token Alignment" is discussed. The paper, available at https://arxiv.org/abs/2210.08465, addresses the challenge of generating images for a story using a text-to-image framework.
 
 3. **REPORTS for STOCHASTIC METHODS FOR FINANCE course (prof. Grasselli):** This section comprises a series of reports covering various financial mathematics topics, accompanied by VBA scripts for data analysis.
