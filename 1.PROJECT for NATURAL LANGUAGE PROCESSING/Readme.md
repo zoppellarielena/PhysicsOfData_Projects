@@ -1,4 +1,4 @@
-# BiLSTM vs BERT in feature extration for Neural Dependency Parsing
+# BiLSTM vs BERT in feature extraction for Neural Dependency Parsing
 This project explores two different architectures for enhancing an ArcEager parser through contextual feature extraction and utilizing a feedforward network 
 for action prediction. The two architectures implemented are as follows:
 
