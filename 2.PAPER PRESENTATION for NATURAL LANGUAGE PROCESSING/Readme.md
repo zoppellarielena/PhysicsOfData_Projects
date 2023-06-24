@@ -9,7 +9,7 @@ Additionally, they introduce a character token planning model to predict visual 
 By incorporating character-centric planning and token alignment, the paper presents an innovative solution to enhance the generation of images in storytelling scenarios. 
 This presentation provides an overview of the paper's methodology, key findings, and potential implications in the field of natural language processing.
 
-This presentation has been developed and discuss in May 2023 for *Natural Language Processing* course offered by the University of Padova.
+This presentation has been developed and discuss in May 2023 for *Natural Language Processing* course offered by the University of Padova (academic year 2022-2023).
 
 Team members:
 - Mahfouz Auriane
