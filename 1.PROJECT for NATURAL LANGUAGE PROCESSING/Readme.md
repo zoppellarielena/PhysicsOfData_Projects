@@ -13,7 +13,7 @@ relation with Zipf/Mandelbrot law, lemmas vocabulary and frequencies, POS tag di
 For the BERT model, a small statistical analysis of the predicted moves from the trained model is provided, highlighting its higher performance scores on the 
 two actions that do not attach a dependency to the element in the configuration (shift and reduce).
 
-This project was developed in June 2023 for the course *Natural Language Processing* offered by the University of Padova.
+This project was developed in June 2023 for the course *Natural Language Processing* offered by the University of Padova (academic year 2022-2023).
 
 Team Members:
 - Mahfouz Auriane
