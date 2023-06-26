@@ -23,7 +23,12 @@ This collection shows how my work has grown and improved over time, demonstratin
 
 ## Programming Languages and Libraries:
 - Python:
-  - Pytorch, Keras TensorFlow, scikit-learn, transformers (Hugging Face), Pandas, Numpy, Matplotlib, Seaborn, ...
+  - Pytorch
+  - Keras TensorFlow
+  - scikit-learn
+  - transformers (Hugging Face)
+  - Pandas
+  - Basics: Numpy, Matplotlib, Seaborn, ...
 - R
 - Visual Basic for Applications (VBA)
 - SQL
