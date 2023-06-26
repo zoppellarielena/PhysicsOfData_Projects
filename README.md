@@ -20,3 +20,10 @@ This is a collection of projects and exercises completed during my pursuit of a 
 9. **PROJECT for LABORATORY OF COMPUTATIONAL PHYSICS MOD A course (prof. Zanetti and prof. Mapelli):** The aim of this project is to use graphical and machine learning tools to figure out what features have the highest impact on the fate of a binary black hole in Nuclear Star Clusters (NSC), Globular Clusters (GC) and Young Star Clusters (YSC).
 
 This collection shows how my work has grown and improved over time, demonstrating my increasing knowledge and skills in the field of computational physics, machine learning and data analysis throughout my academic journey.
+
+## Programming Languages and Libraries:
+- Python:
+  - Pytorch, Keras TensorFlow, scikit-learn, transformers (Hugging Face), Pandas, Numpy, Matplotlib, Seaborn, ...
+- R
+- Visual Basic for Applications (VBA)
+- SQL
