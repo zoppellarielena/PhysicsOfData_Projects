@@ -19,3 +19,5 @@ This project was developed in June 2023 for the course *Natural Language Process
 Team Members:
 - Mahfouz Auriane
 - Zoppellari Elena: https://github.com/zoppellarielena
+
+  For early consultation contact: elenazoppellari@gmail.com
