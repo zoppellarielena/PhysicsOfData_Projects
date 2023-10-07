@@ -1,6 +1,6 @@
 # Mini-Batch K-means on RCV1 dataset using Dask
 
-The objective of this project was to implement a simplified Mini-Batch K-Means algorithm on the RCV1 dataset, which consists of more than 800k articles. Each article is characterized by over 50k features, resulting in a dataset exceeding 250GB in size. To handle this substantial dataset, we leveraged the Dask library in Python, following some initial data reduction assumptions that brought to the choice of $k=4$. The results have been analyzed considering the best configuration in terms of performances (therefore number of workers, number of partitions, rechunk of the minibatch) instead of focusing on the K-means efficency through dask dashboard analysis, execution time and capacity of the workers.
+The objective of this project was to implement a simplified Mini-Batch K-Means algorithm on the RCV1 dataset, which consists of more than 800k articles. Each article is characterized by over 50k features, resulting in a dataset exceeding 250GB in size. To handle this substantial dataset, we leveraged the Dask library in Python, following some initial data reduction assumptions based on Natural Language Processing that brought to the choice of $k=4$. The results have been analyzed considering the best configuration in terms of performances (therefore number of workers, number of partitions, rechunk of the minibatch) instead of focusing on the K-means efficency through dask dashboard analysis, execution time and capacity of the workers.
 
 The project notebook is structured as follows:
 1. **Introduction**:<br>
