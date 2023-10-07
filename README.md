@@ -2,33 +2,37 @@
 
 This is a collection of projects and exercises completed during my pursuit of a Master's degree in Physics of Data at the University of Padova. The list is organized in reverse chronological order, starting from the most recent work and progressing towards older projects:
 
-1. **PROJECT for NATURAL LANGUAGE PROCESSING course (prof. Satta):** This project focused on Neural Dependency Parsing using biLSTM compared to BERT for feature extraction, utilizing ArcEager as the Parser algorithm. The implementation was done using PyTorch.
-2. **PAPER PRESENTATION for NATURAL LANGUAGE PROCESSING course (prof. Satta):** In this presentation, the 2022 paper by Chen et al. titled "Character-Centric Story Visualization via Visual Planning and Token Alignment" is discussed. The paper, available at https://arxiv.org/abs/2210.08465, addresses the challenge of generating images for a story using a text-to-image framework.
+1. **PROJECT: MINIBATCH K-MEANS CLUSTERING ON RCV1 DATASET USING DASK**<br> Developed for the *Management and Analysis of Physics Dataset Mod. B* course, this project explores efficient methods for handling a massive 250GB dataset using the **Dask** library. The goal is to perform clustering on a dataset containing over 800k RCV1 articles. The project includes an attempt to reduce the RCV1 dataset by considering articles belonging to a specific macrocategory and an implemetation of cosine similarity instead of euclidean distance for clustering, following Natural Language Processing suggestions.
+  
+2. **PROJECT: NEURAL DEPENDENCY PARSING USING biLSTM COMPARED TO BERT FOR FEATURES EXTRAXTION**<br> Completed as part of the *Natural Language Processing* course, this project employs the ArcEager parsing algorithm. Implementation is carried out using **PyTorch** and the **Hugging Face** library for utilizing pretrained **BERT models**.
+   
+3. **PAPER PRESENTATION: *Character-Centric Story Visualization via Visual Planning and Token Alignment* BY CHEN ET AL., 2022**<br> This presentation, conducted for the *Natural Language Processing* course, delves into the paper's content, which addresses the challenge of generating images for a story using a text-to-image framework. The paper can be accessed at https://arxiv.org/abs/2210.08465.
 
-3. **REPORTS for STOCHASTIC METHODS FOR FINANCE course (prof. Grasselli):** This section comprises a series of reports covering various financial mathematics topics, accompanied by VBA scripts for data analysis.
+4. **REPORTS for *STOCHASTIC METHODS FOR FINANCE* course**<br> This section comprises a collection of reports covering various topics in advanced financial mathematics. Accompanying the reports are **Visual Basic for Applications scripts** used for data analysis on Excel.
 
-4. **PROJECT for NEURAL NETWORKS AND DEEP LEARNING course (prof. Pegoraro):** The project explored the comparison between conditional Generative Adversarial Network (cGAN) and Wasserstein Generative Adversarial Network (WGAN) for Image Colorization. PyTorch was employed for the implementation.
+5. **PROJECT: CONDITIONAL GENERATIVE ADVERSIAL NETWORK (cGAN) and WASSERSTEIN cGAN (WGAN) FOR IMAGE COLORIZATION**<br> Developed for the *Neural Networks and Deep Learning* course, this project utilizes **PyTorch** for GAN implementation.
+  
+6. **EXERCISES for *MACHINE LEARNING* course**<br> In this section, you'll find a set of Python exercises focused on fundamental machine learning concepts using **scikit-learn** library.
 
-5. **EXERCISES for MACHINE LEARNING course (prof. Zanuttigh):** This section includes a collection of Python exercises focused on machine learning basic concepts.
+7. **PROJECT: NAIVE BAYES MODEL FOR FAKE NEWS CLASSIFICATION**<br> Developed for the Advanced Statistics for Physics Analysis course, the implementation is carried out using the **R language**.
 
-6. **PROJECT for ADVANCED STATISTICS FOR PHYSICS ANALYSIS course (prof. Garfagnini):** For this project, a Naive Bayes Model was developed to classify Fake News. The implementation was carried out using R.
+8. **PROJECT: AUTOENCODER ARCHITECTURE FOR CATCHMENT FEATURES IN RIVER RUNOFF TIME-SERIES**<br> Completed for the *Laboratory of Computational Physics Mod. B* under the supervision of Professor Carlo Albert. The project utilizes **Keras in TensorFlow** for implementation.
 
-7. **PROJECT for LABORATORY OF COMPUTATIONAL PHYSICS MOD B course (prof. Baiesi, supervisor: prof. Carlo Albert):** This project involved the implementation of an Encoder-Decoder Architecture for catchment features in river runoff time-series. Keras in TensorFlow was utilized for the implementation.
+9. **EXERCISES for *ADVANCED STATISTICS FOR PHYSICS ANALYSIS* course**<br> This section presents a variety of exercises in **R language** covering both basic and advanced statistical topics.
 
-8. **EXERCISES for ADVANCED STATISTICS FOR PHYSICS ANALYSIS course (prof. Garfagnini):** Here, you will find a range of exercises in R covering various basic and advanced statistical topics.
+10. **PROJECT: WHICH FEATURES HAVE THE HIGHEST IMPACT ON THE FATE OF A BINARY BLACK HOLES?**<br> Developed for the *Laboratory of Computational Physics Mod. A*, this project employs graphical and machine learning tools to identify the features with the greatest impact on the fate of binary black holes in Nuclear Star Clusters (NSC), Globular Clusters (GC), and Young Star Clusters (YSC).
 
-9. **PROJECT for LABORATORY OF COMPUTATIONAL PHYSICS MOD A course (prof. Zanetti and prof. Mapelli):** The aim of this project is to use graphical and machine learning tools to figure out what features have the highest impact on the fate of a binary black hole in Nuclear Star Clusters (NSC), Globular Clusters (GC) and Young Star Clusters (YSC).
-
-This collection shows how my work has grown and improved over time, demonstrating my increasing knowledge and skills in the field of computational physics, machine learning and data analysis throughout my academic journey.
+This collection illustrates the growth and improvement of my work over time, highlighting the increasing knowledge and skills I've acquired in the fields of computational physics, machine learning, and data analysis throughout my academic journey.
 
 ## Programming Languages and Libraries:
 - Python:
-  - Pytorch
-  - Keras TensorFlow
+  - **Pytorch**
+  - **Keras TensorFlow**
   - scikit-learn
-  - transformers (Hugging Face)
+  - **transformers (Hugging Face)**
   - Pandas
+  - **Dask**
   - Basics: Numpy, Matplotlib, Seaborn, ...
-- R
+- **R**
 - Visual Basic for Applications (VBA)
-- SQL
+- **SQL**
