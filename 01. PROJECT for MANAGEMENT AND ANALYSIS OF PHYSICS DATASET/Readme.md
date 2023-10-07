@@ -22,7 +22,7 @@ The project notebook is structured as follows:
     3.3. Number of workers graphs
     3.4. Is the Euclidean Distance the best objective function for RCV1 dataset?
 
-This project was developed during August and September 2023 for the "Physics of Data" course, specifically the "Management and Analysis of Physics Dataset Module B," in the academic year 2023-2024. It was undertaken by Group 19, comprised of:
+This project was developed during August and September 2023 for the "Management and Analysis of Physics Dataset Module B" course in the academic year 2023-2024. It was undertaken by Group 19, comprised of:
 * Golan Rodrigo
 * Guercio Tommaso
 * Zoppellari Elena
