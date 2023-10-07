@@ -36,3 +36,7 @@ This collection illustrates the growth and improvement of my work over time, hig
 - **R**
 - Visual Basic for Applications (VBA)
 - **SQL**
+
+## Additional Skills:
+- Cluster management
+
