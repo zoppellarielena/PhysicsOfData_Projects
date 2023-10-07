@@ -39,4 +39,6 @@ This collection illustrates the growth and improvement of my work over time, hig
 
 ## Additional Skills:
 - Cluster management
+- English C1
+- French B2
 
