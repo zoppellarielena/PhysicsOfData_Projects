@@ -2,9 +2,8 @@
 Rainfall-runoff modeling is a long-standing challenge in hydrological sciences, with various approaches attempted over time. 
 However, the computational costs and reliability of existing models remain issues, leading to the use of less complex but less reliable models.
 
-In this project, Long Short-Term Memory (LSTM) networks have been used to address this challenge. 
-Our main objective is to integrate the training of an LSTM neural network with summary statistics provided by an encoder. 
-The goal is to assess whether the encoder, capturing the key characteristics of different hydrological basins, can improve predictions for basins with limited information.
+In this project, a Long Short-Term Memory (LSTM) network and an Autoencoder have been used to address this challenge. 
+The goal is to assess whether the encoder, capturing the key characteristics of different hydrological basins as summary statistics, can improve predictions for basins with limited information.
 
 For this analysis, the CAMELS dataset (Catchment Attributes for Large-Sample Studies) was chosen, consisting of daily meteorological data and measured discharge for 
 671 minimally disturbed catchments across the United States. 
